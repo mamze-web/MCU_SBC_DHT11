@@ -1,4 +1,4 @@
-![img](../DHT11/img/IMG_0667.png)
+![img](/img/IMG_0667.png)
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz5BOU9J9pB_O0B8-rDjCWQ?label=YouTube&style=social)](https://youtu.be/E6wkvTG2Ofs?si=k_IFc8MM8aGpZE7J)
 
