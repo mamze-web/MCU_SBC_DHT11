@@ -50,7 +50,7 @@ The stl files for an enclosure are on thingiverse [here](https://www.thingiverse
 
 In this video you can see this temperature and humidity sensor in action.
 
-[![Mod demo](/DHT11/img/IMG_0667.png)](https://www.youtube.com/watch?v=E6wkvTG2Ofs "Video Title")
+[![Mod demo](/img/IMG_0667.png)](https://www.youtube.com/watch?v=E6wkvTG2Ofs "Video Title")
 
 # 라이센스 
 [GPL 3.0](https://olis.or.kr/license/Detailselect.do?lId=1072&mapCode=010072)
